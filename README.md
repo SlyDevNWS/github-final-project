@@ -14,4 +14,4 @@ A calculator that calculates simple interest given principal, annual rate of int
 
 ## License
 [Apache 2.0]
-(https://)
+(http://www.apache.org/licenses/LICENSE-2.0)
